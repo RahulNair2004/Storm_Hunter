@@ -67,10 +67,13 @@ To play the game locally:
 - **Dynamic Ocean Environment**: Procedurally generated world for replayability.
 
 ## **ScreenShots**
+
 ![Screenshot 2024-09-16 003403](https://github.com/user-attachments/assets/bc707d54-8580-4f6e-b6d4-264e34d2a861)
 
+![Screenshot 2024-09-16 003331](https://github.com/user-attachments/assets/8d0084da-3e0c-45f3-b1f3-c74f75484350)
 
-https://github.com/user-attachments/assets/443341ae-9f8a-45bb-8ce3-882d28e38b66
+
+![Screenshot 2024-09-16 003440](https://github.com/user-attachments/assets/b728e674-e8ee-40ed-b0d7-7ed823195e7f)
 
 
 ## 📝 **How to Play**
