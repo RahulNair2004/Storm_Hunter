@@ -66,6 +66,13 @@ To play the game locally:
 - **Low-poly Art Style**: Minimalistic and performance-friendly.
 - **Dynamic Ocean Environment**: Procedurally generated world for replayability.
 
+## **ScreenShots**
+![Screenshot 2024-09-16 003403](https://github.com/user-attachments/assets/bc707d54-8580-4f6e-b6d4-264e34d2a861)
+
+
+https://github.com/user-attachments/assets/443341ae-9f8a-45bb-8ce3-882d28e38b66
+
+
 ## 📝 **How to Play**
 
 - **Move the Boat**: Use `WASD` or Arrow Keys.
@@ -88,3 +95,5 @@ To play the game locally:
 ## 📄 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+https://github.com/user-attachments/assets/443341ae-9f8a-45bb-8ce3-882d28e38b66
