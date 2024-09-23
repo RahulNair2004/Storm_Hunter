@@ -73,9 +73,6 @@ To play the game locally:
 ![Screenshot 2024-09-16 003331](https://github.com/user-attachments/assets/8d0084da-3e0c-45f3-b1f3-c74f75484350)
 
 
-![Screenshot 2024-09-16 003440](https://github.com/user-attachments/assets/b728e674-e8ee-40ed-b0d7-7ed823195e7f)
-
-
 ## 📝 **How to Play**
 
 - **Move the Boat**: Use `WASD` or Arrow Keys.
